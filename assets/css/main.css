@@ -2218,7 +2218,7 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
+				color: #000;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
